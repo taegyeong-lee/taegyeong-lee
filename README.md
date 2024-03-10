@@ -1,6 +1,8 @@
 <h2> Taegyeong Lee </h4>
 Master-student in Artificial Intelligence Graduate School, Ulsan National Institute of Science and Technology (UNIST)  
 
+Hello, I am a master's student who is interested in **Multimodel Learning** and** Generative Models**. I aspire to conduct research that can shift the world's paradigm. Also i am interested in **Quantitative Tradin**g on cryptocurrency market.
+
 https://sites.google.com/view/taegyeonglee/home
 
 Email : taegyeonglee@unist.ac.kr  
