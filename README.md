@@ -3,6 +3,9 @@ Master-student in Artificial Intelligence Graduate School, Ulsan National Instit
 
 Hello, I am a master's student who is interested in **Multimodel Learning** and **Generative Models**. I aspire to conduct research that can shift the world's paradigm. Also i am interested in **Quantitative Trading** on cryptocurrency market.
 
+If you want, please contact me via my personal email and you are welcome.
+
+
 https://sites.google.com/view/taegyeonglee/home
 
 Email : taegyeonglee@unist.ac.kr  
