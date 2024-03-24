@@ -1,10 +1,8 @@
 <h2> Taegyeong Lee </h4>
-Master-student in Artificial Intelligence Graduate School, Ulsan National Institute of Science and Technology (UNIST)  
+Hello, I am a master's student in MVLLAB at Artificial Intelligence Graduate School (UNIST). I am fortunate to be advised by Taehwan Kim.
 
-Hello, I am a master's student who is interested in **Multimodel Learning** and **Generative Models**. I aspire to conduct research that can shift the world's paradigm. Also i am interested in **Quantitative Trading** on cryptocurrency market.
 
-If you want, please contact me via my personal email and you are welcome.
-
+My main research areas are **Generative Models** and **Multimodal Learning**. I am specifically interested in novel research that generates images or videos from audio or text (various modalities). Just as humans can think and infer from various senses, I believe that the various modalities and generative models can have a significant impact on our community in the future. Also i am interested in **Quantitative Trading** on cryptocurrency market. Now, I am open to internships or PhD positions. 
 
 https://sites.google.com/view/taegyeonglee/home
 
