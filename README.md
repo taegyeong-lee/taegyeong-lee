@@ -8,7 +8,7 @@ https://sites.google.com/view/taegyeonglee/home
 
 Email : taegyeonglee@unist.ac.kr  
 Bussiness Email : apdo@apdoprivate.com
- 
+
 **International Publications**
-- **Taegyeong Lee***, Soyeong Kwon* and Taehwan Kim, Grid Diffusion Models for Text-to-Video Generation, IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2024 (to appear)
--  **Taegyeong Lee**, Jeonghun Kang, Hyeonyu Kim and Taehwan Kim, Generating Realistic Images from In-the-wild Sounds, IEEE/CVF International Conference on Computer Vision **(ICCV)**, 2023
+- **Taegyeong Lee***, Soyeong Kwon* and Taehwan Kim, Grid Diffusion Models for Text-to-Video Generation, IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2024 [[pdf](https://arxiv.org/pdf/2404.00234.pdf)][[project page](https://taegyeong-lee.github.io/text2video)]
+-  **Taegyeong Lee**, Jeonghun Kang, Hyeonyu Kim and Taehwan Kim, Generating Realistic Images from In-the-wild Sounds, IEEE/CVF International Conference on Computer Vision **(ICCV)**, 2023 [[pdf](https://arxiv.org/pdf/2309.02405.pdf)][[project page](https://taegyeong-lee.github.io/lee2023generating)]
