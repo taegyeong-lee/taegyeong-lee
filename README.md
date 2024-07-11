@@ -6,7 +6,7 @@ My main research areas are **Generative Models** and **Multimodal Learning**. I 
 
 https://sites.google.com/view/taegyeonglee/home
 
-Email : taegyeonglee@unist.ac.kr  
+Email : taegyeonglee@unist.ac.kr, taegyeong.leaf@gmail.com
 Bussiness Email : apdo@apdoprivate.com
 
 **International Publications**
