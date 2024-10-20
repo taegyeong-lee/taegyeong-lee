@@ -2,12 +2,11 @@
 Hello, I am a Ph.D student in MVLLAB at Artificial Intelligence Graduate School (UNIST). I am fortunate to be advised by Taehwan Kim.
 
 
-My main research areas are **Generative Models** and **Multimodal Learning**. I am specifically interested in novel research that generates images or videos from audio or text (various modalities). Just as humans can think and infer from various senses, I believe that the various modalities and generative models can have a significant impact on our community in the future. Also i am interested in **Quantitative Trading** on cryptocurrency market. 
+My main research areas are **Generative Models** and **Multimodal Learning**. I am specifically interested in novel research that generates images or videos from audio or text (various modalities). Just as humans can think and infer from various senses, I believe that the various modalities and generative models can have a significant impact on our community in the future. 
 
 https://sites.google.com/view/taegyeonglee/home
 
 Email : taegyeonglee@unist.ac.kr, taegyeong.leaf@gmail.com
-Bussiness Email : apdo@apdoprivate.com
 
 **International Publications**
 - Soyeong Kwon*, **Taegyeong Lee***  and Taehwan Kim, Zero-shot Text-guided Infinite Image Generation with LLM guidance, European Conference on Computer Vision **(ECCV)**, 2024 [[pdf]()][[project page](https://soyeong-kwon.github.io/eccv2024outpainting)]
