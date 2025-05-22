@@ -1,6 +1,5 @@
-**Hi, I am Taegyeong Lee**. I am interested in novel research(GenAI, Multi-modal AI, LLMs) that generates images or videos from audio or text (various modalities). Just as humans can think and infer from various senses, I believe that the various modalities and generative models can have a significant impact on our community in the future. 
-I completed my Master's degree at the UNIST Graduate School of Artificial Intelligence.
-Previously, I interned at the <a href='https://www.etri.re.kr/intro.html'>Electronics and Telecommunications Research Institute (ETRI)</a> and completed the <a href='https://www.swmaestro.org/sw/main/main.do'>Software Maestro 8th program</a>, sponsored by the Ministry of Science and ICT on Republic of Korea. 
-I also served as a software developer soldier in the <a href='https://www.army.mil.kr/sites/army/index.do'>Promotion Data Management Division of the Republic of Korea Army Headquarters</a>. I hold a Bachelor of Science degree in Computer Engineering from Pukyong National University.
+## Taegyeong Lee
 
-https://taegyeong-lee.github.io
+Hi, I'm **Taegyeong Lee**. I'm passionate about novel research that explores generating images or videos from audio and text—integrating various modalities. I enjoy conducting research that is **simple yet effective**, leveraging multimodal and generative models to make a strong impact in the real world.
+
+I am currently working as a research intern on the [FnGuide LLM TFT](https://www.fnguide.com), focusing on LLMs and RAG (Retrieval-Augmented Generation). Previously, I earned my Master’s degree from the UNIST AIGS. I interned at the [ETRI](https://www.etri.re.kr/intro.html) and completed the [Software Maestro 8th](https://www.swmaestro.org/sw/main/main.do). I also served as a software developer in the [Promotion Data Management Division](https://www.army.mil.kr/sites/army/index.do) at the Republic of Korea Army Headquarters. I hold a Bachelor of Computer Engineering from Pukyong National University.
