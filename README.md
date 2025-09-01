@@ -8,6 +8,7 @@ I am currently working as a AI researcher on the [FnGuide](https://www.fnguide.c
 
 [Linkedin](https://www.linkedin.com/in/taegyeong-lee/)
 
+**[NEWS]** We have launched the beta service at LangQuant in an Advisor.  
 **[NEWS]** I’ve started my journey as an AI Researcher at FnGuide.  
 **[NEWS]** Our paper on prompt gaurd for safety LLM has been accepted to a **ACL 2025 Workshop (Selected a lightning talk presentation)**.  
 **[NEWS]** I have started working as a Research Intern in FnGuide.  
