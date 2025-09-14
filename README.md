@@ -1,6 +1,6 @@
 ## Taegyeong Lee
 
-Hi, I'm Taegyeong Lee. I'm passionate about novel research at the intersection of **multi modalities**—especially** generating images or videos **from audio and text. I enjoy exploring research that is **simple yet effective**, leveraging multimodal and generative models to make a strong impact in the real world.
+Hi, I'm Taegyeong Lee. I'm passionate about novel research at the intersection of **multi modalities**—especially **generating images or videos** from audio and text. I enjoy exploring research that is **simple yet effective**, leveraging multimodal and generative models to make a strong impact in the real world.
 
 I'm also deeply interested in **quantitative trading**, and **I'm excited about the potential of applying multimodal large language models and generative models to the field of quant finance**.
 
