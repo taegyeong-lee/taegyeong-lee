@@ -6,7 +6,7 @@ I'm also deeply interested in **quantitative trading**, and **I'm excited about 
 
 I am currently working as a AI researcher on the [FnGuide](https://www.fnguide.com), focusing on LLMs and RAG (Retrieval-Augmented Generation). Previously, I earned my Master’s degree from the UNIST AIGS. I interned at the [ETRI](https://www.etri.re.kr/intro.html) and completed the [Software Maestro 8th](https://www.swmaestro.org/sw/main/main.do). I also served as a software developer in the [Promotion Data Management Division](https://www.army.mil.kr/sites/army/index.do) at the Republic of Korea Army Headquarters. I hold a Bachelor of Computer Engineering from Pukyong National University.
 
-[Linkedin](https://www.linkedin.com/in/taegyeong-lee/)
+[Linkedin](https://www.linkedin.com/in/taegyeong-lee/), [LangQuant](https://langquant.com/)
 
 **[NEWS]** I have received a nomination from ICLR 2026 to serve as a Reviewer (ICPR 2024, ICLR 2025, 2026)  
 **[NEWS]** We have launched the beta service at LangQuant in an Advisor.  
