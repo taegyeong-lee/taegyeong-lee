@@ -8,7 +8,7 @@ I am currently working as a AI researcher on the [FnGuide](https://www.fnguide.c
 
 [Linkedin](https://www.linkedin.com/in/taegyeong-lee/), [LangQuant](https://langquant.com/)
 
-**[NEWS]** I have received a nomination from ICLR 2026 to serve as a Reviewer (ICPR 2024, ICLR 2025, 2026)  
+**[NEWS]** I have received a nomination from CVPR 2026, ICLR 2026 to serve as a Reviewer (ICPR 2024, ICLR 2025)  
 **[NEWS]** We have launched the beta service at LangQuant in an Advisor.  
 **[NEWS]** I’ve started my journey as an AI Researcher at FnGuide.  
 **[NEWS]** Our paper on prompt gaurd for safety LLM has been accepted to a **ACL 2025 Workshop (Selected a lightning talk presentation)**.  
