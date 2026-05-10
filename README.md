@@ -9,7 +9,7 @@ I am currently working as a ML Engineer at [Miridih](https://www.miridih.com), f
 [LinkedIn](https://www.linkedin.com/in/taegyeong-lee/)
 
 **[NEWS]** Our paper on Negation-aware Retrieval has been accepted to an **ACL 2026 Workshop (RAG4REPORT)**.  
-**[NEWS]** I have started working as a ML Engineer at Miridih.  
+**[NEWS]** I have started working as a ML Engineer at Miri.DIH.  
 **[NEWS]** Our paper on prompt guard for safety LLM has been accepted to an **ACL 2025 Workshop (Selected as a lightning talk presentation)**.  
 **[NEWS]** I have started working as an AI Researcher at FnGuide.  
 **[NEWS]** Our paper on knowledge distillation has been accepted to a **CVPR 2025 Workshop**.  
