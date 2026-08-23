@@ -1,10 +1,6 @@
 ## Taegyeong Lee
 
-Hi, I'm Taegyeong Lee. I'm passionate about novel research on **AI Agents** and **LLM post-training**, with a particular focus on building agents that work reliably in real-world systems. I enjoy exploring research that is **simple yet effective**, leveraging LLMs and generative models to make a strong impact in the real world.
-
-I'm also broadly interested in **multimodal generation**—especially generating images or videos from audio and text—and in **quantitative trading**, where I see strong potential for applying multimodal large language models and generative models to quant finance.
-
-I am currently working as a ML Engineer at [Miridih](https://www.miridih.com), focusing on **AI Agents** and **LLM post-training**. Previously, I worked as an AI Researcher at [FnGuide](https://www.fnguide.com), focusing on LLMs and RAG (Retrieval-Augmented Generation). I earned my Master's degree from the UNIST AIGS. I interned at [ETRI](https://www.etri.re.kr/intro.html) and completed the [Software Maestro 8th](https://www.swmaestro.org/sw/main/main.do). I also served as a software developer in the [Promotion Data Management Division](https://www.army.mil.kr/sites/army/index.do) at the Republic of Korea Army Headquarters. I hold a Bachelor of Computer Engineering from Pukyong National University.
+I'm interested in **AI for finance analyzing financial and crypto market data, detecting anomalies** in it, and post-training LLMs and building agents that can reason over it. I enjoy work that is simple yet effective and makes **a real impact** outside the lab. I am currently an AI Engineer at FairLabs, working on financial data analysis and AI for finance. Previously, I worked as an ML Engineer at Miridih on post-training and AI agents, and as an AI Researcher at FnGuide on LLMs and RAG over financial data. I earned my Master's degree from the UNIST AIGS, interned at the ETRI, and completed the Software Maestro 8th. I also served as a software developer in the Promotion Data Management Division at the Republic of Korea Army Headquarters. I hold a Bachelor of Computer Engineering from Pukyong National University.
 
 [LinkedIn](https://www.linkedin.com/in/taegyeong-lee/)
 
