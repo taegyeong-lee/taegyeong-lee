@@ -4,7 +4,8 @@ I'm interested in **AI for finance analyzing financial and crypto market data, d
 
 [LinkedIn](https://www.linkedin.com/in/taegyeong-lee/)
 
-**[NEWS]** Reviewer for CVPR 2026, NeurIPS 2026, ICLR 2025, and AAAI 2027.   
+**[NEWS]** I have started working as an AI Engineer at FairLabs.  
+**[NEWS]** Reviewer for ICPR 2024, ICLR 2025,2026,  CVPR 2026, NeurIPS 2026, and AAAI 2027.   
 **[NEWS]** Our paper on Negation-aware Retrieval has been accepted to an **ACL 2026 Workshop (RAG4REPORT)**.  
 **[NEWS]** I have started working as a ML Engineer at Miri.DIH.  
 **[NEWS]** Our paper on prompt guard for safety LLM has been accepted to an **ACL 2025 Workshop (Selected as a lightning talk presentation)**.  
